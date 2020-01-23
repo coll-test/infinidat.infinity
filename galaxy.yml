@@ -1,0 +1,14 @@
+namespace: infinidat
+name: infinity
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies: {}
+repository: git@github.com:coll-test/infinidat.infinity.git
+documentation: https://github.com/coll-test/infinidat.infinity/tree/master/docs
+homepage: https://github.com/coll-test/infinidat.infinity
+issues: https://github.com/coll-test/infinidat.infinity/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc

@@ -1,0 +1,15 @@
+plugins/module_utils/infinibox.py future-import-boilerplate
+plugins/module_utils/infinibox.py metaclass-boilerplate
+plugins/modules/infini_export.py validate-modules:doc-default-does-not-match-spec
+plugins/modules/infini_export.py validate-modules:doc-missing-type
+plugins/modules/infini_export.py validate-modules:nonexistent-parameter-documented
+plugins/modules/infini_export.py validate-modules:parameter-type-not-in-doc
+plugins/modules/infini_export_client.py validate-modules:doc-missing-type
+plugins/modules/infini_export_client.py validate-modules:nonexistent-parameter-documented
+plugins/modules/infini_fs.py validate-modules:doc-missing-type
+plugins/modules/infini_host.py validate-modules:doc-missing-type
+plugins/modules/infini_host.py validate-modules:parameter-type-not-in-doc
+plugins/modules/infini_pool.py validate-modules:doc-missing-type
+plugins/modules/infini_vol.py validate-modules:doc-missing-type
+plugins/doc_fragments/infinibox.py future-import-boilerplate
+plugins/doc_fragments/infinibox.py metaclass-boilerplate
